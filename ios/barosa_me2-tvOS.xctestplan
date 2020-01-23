@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "229D6B9F-5C5C-459B-8134-EA5A72416345",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:barosa_me2.xcodeproj",
+      "identifier" : "2D02E47A1E0B4A5D006451C7",
+      "name" : "barosa_me2-tvOS"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:barosa_me2.xcodeproj",
+        "identifier" : "2D02E48F1E0B4A5D006451C7",
+        "name" : "barosa_me2-tvOSTests"
+      }
+    }
+  ],
+  "version" : 1
+}
